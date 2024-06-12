@@ -1,0 +1,40 @@
+/* .square {
+  border: solid 1px;
+  width: 30px;
+  height: 30px;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.board-row {
+  display: flex;
+  align-items: center;
+}
+
+.ul-notes {
+  display: flex;
+  flex-direction: column-reverse;
+} */
+h1 {
+  color: green;
+  font-style: italic;
+}
+
+.note {
+  color: grey;
+  padding-top: 3px;
+  font-size: 15px;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
